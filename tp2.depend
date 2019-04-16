@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1551644056 source:d:\cours\tg\sujetstp\tp2\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1551643974 source:d:\cours\tg\sujetstp\tp2\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1551643975 d:\cours\tg\sujetstp\tp2\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1551643974 source:d:\cours\tg\sujetstp\tp2\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1551643974 d:\cours\tg\sujetstp\tp2\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+
+1552847081 source:d:\users\maxime\documents\code blocks\ing 2\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1552853938 d:\users\maxime\documents\code blocks\ing 2\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	<stack>
+	<queue>
+
+1552843980 d:\users\maxime\documents\code blocks\ing 2\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1552853377 source:d:\users\maxime\documents\code blocks\ing 2\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1552853518 source:d:\users\maxime\documents\code blocks\ing 2\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555421383 source:c:\users\paulin\desktop\tp2\tp2\graphe.cpp
+	<fstream>
+	<string>
+	<unordered_map>
+	<iostream>
+	"graphe.h"
+
+1555420934 c:\users\paulin\desktop\tp2\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	<stack>
+	<queue>
+	"Svgfile.h"
+
+1555421208 c:\users\paulin\desktop\tp2\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555420996 source:c:\users\paulin\desktop\tp2\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555421208 source:c:\users\paulin\desktop\tp2\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555420748 source:c:\users\paulin\desktop\tp2\tp2\arete.cpp
+	"arete.h"
+	<iostream>
+	<queue>
+	<string>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+
+1555420748 c:\users\paulin\desktop\tp2\tp2\arete.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+	<stack>
+	<queue>
+
+1555336997 source:c:\users\paulin\desktop\tp2\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555336997 c:\users\paulin\desktop\tp2\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
